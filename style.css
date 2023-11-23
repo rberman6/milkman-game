@@ -1,0 +1,21 @@
+.cow {
+    height: 100px;
+    width: 150px;
+    border-radius: 10px;
+    margin-bottom: 20px;
+}
+
+.milkjar {
+    display: flex;
+    margin-bottom: 20px;
+    gap: 5px;
+}
+
+#sell-milk {
+    visibility: hidden;
+}
+
+.cash {
+    display: flex;
+    gap: 5px;
+}
